@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "position": "Software Engineer",
+        "location": "Dhaka",
+        "company": "E Learning Provider",
+        "img": "https://cdn.logojoy.com/wp-content/uploads/2018/05/01104813/1268-768x591.png"
+    },
+    {
+        "id": 2,
+        "position": "Network Engnieer",
+        "location": "Khulna",
+        "company": "Deep Tech",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUW6eEU28wbtt19-cyukDtnNPqtCHhQ9IZIRuTmZIGCqdrq9uW66By_uyUMpFtjxJxRPo&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "position": "Full Stack Web Developer",
+        "location": "Rajshahi",
+        "company": "Envi Tech",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWg52yLy3kVfduap3NkTbkkXkFkULaI7AO5lf_Rwv4-pOX0MdZd9iSbxlNCSqLN3DwluE&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "position": "Graphic Designer",
+        "location": "Dhaka",
+        "company": "GetIT Done",
+        "img": "https://dypdvfcjkqkg2.cloudfront.net/large/4579094-9774.png"
+    },
+    {
+        "id": 5,
+        "position": "Database Administrator",
+        "location": "Chittagong",
+        "company": "IT Admin Services",
+        "img": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/4754/course_4754_image.jpg"
+    },
+    {
+        "id": 6,
+        "position": "Computer Operator",
+        "location": "Sylhet",
+        "company": "ITBoss",
+        "img": "https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2660/posts/32707/image/fox-tech-colorful-logo-YE29W9Q.jpg"
+    }
+]
